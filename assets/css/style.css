@@ -1,5 +1,5 @@
 body {
-  background: #000;
+  background: #bdc400;
   }
 
 .container {
@@ -15,7 +15,11 @@ h1 {
 }
 
 h1:hover {
-  color: #bdc400;
+  color: #000;
+}
+
+h2 {
+  text-align: center;
 }
   
 img {
@@ -39,7 +43,7 @@ form {
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
-  box-shadow: 0 6px #fff;
+  box-shadow: 0 6px #000;
 }
   
 .btn a {
